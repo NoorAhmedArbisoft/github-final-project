@@ -1,2 +1,1 @@
-We use clone and discourage fork. 
-We prefer CLI over the Desktop or GUI interface. 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
